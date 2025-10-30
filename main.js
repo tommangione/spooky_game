@@ -1,3 +1,5 @@
+const prompt = require("prompt-sync")();
+
 function main() {
 	//declaring global variables
 	var name;
