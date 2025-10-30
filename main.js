@@ -46,3 +46,5 @@ function main() {
 		console.log("\nYou blankly stare at the werewolf.\n\nUnfortunately, looking it in the eyes has enraged it, making you its supper.\n\nThe end!")
 	}
 }
+
+main();
